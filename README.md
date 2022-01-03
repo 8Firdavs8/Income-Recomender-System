@@ -1,3 +1,5 @@
+![Screenshot from 2022-01-03 08-52-26](https://user-images.githubusercontent.com/48977195/147945228-49aa0009-bc8c-4149-b9b1-32690e66f1a2.png)
+
 # Income-Recomender-System is developed with the goal of helping people who applying for jobs or curious to see what job is making the most bucks (lol)!
 # The system is user friendly and is very interactive. It gives the visual representation of income rates in different parts of the United States. 
 # 
